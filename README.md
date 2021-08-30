@@ -1,5 +1,7 @@
 # zsh-aliases
 
+https://linuxhint.com/configure-use-aliases-zsh/
+
 ## npm
 sm = "npm start environment:start:mocks"  
 cy = "npm cy:open"  
