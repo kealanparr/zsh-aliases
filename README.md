@@ -1,7 +1,7 @@
 # zsh-aliases
 
 ## npm
-sm = "npm start environments:start:mocks"  
+sm = "npm start environment:start:mocks"  
 cy = "npm cy:open"  
 
 ## git
