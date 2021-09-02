@@ -9,3 +9,5 @@ Insert all company specific ones for where you work
 ## git
 c = git commit -m  
 
+# general
+cls = clear
