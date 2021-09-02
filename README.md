@@ -1,10 +1,11 @@
 # zsh-aliases
 
 https://linuxhint.com/configure-use-aliases-zsh/
+^ How to exit nano. Ctrl, X. Press Y to save and then press enter to save where it currently is.
 
 ## npm
-sm = "npm start environment:start:mocks"  
-cy = "npm cy:open"  
+Insert all company specific ones for where you work
 
 ## git
 c = git commit -m  
+
