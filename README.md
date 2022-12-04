@@ -6,11 +6,9 @@ https://linuxhint.com/configure-use-aliases-zsh/
 ## npm
 Insert all company specific ones for where you work
 
-# Docker
-start = 
-stop = 
-t = travel to my most commonly used package (normally when using Lerna)
-tb = take me back to top level of code repo
+# Docker 
+t = travel to my most commonly used package (normally when using Lerna)   
+tb = take me back to top level of code repo     
 
 # git
 
