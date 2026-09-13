@@ -13,7 +13,7 @@ tb = take me back to top level of code repo
 # git
 
 ## git aliases
-git config --global alias.p "pull origin master"  
+git config --global alias.p "!git pull origin \"$(git symbolic-ref --short HEAD)\" # this will now work for main and master, not just 1 of em
 git config --global alias.co checkout   
 git config --global alias.b branch  
 git config --global alias.st status  
