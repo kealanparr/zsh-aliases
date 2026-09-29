@@ -18,6 +18,7 @@ git config --global alias.co checkout
 git config --global alias.b branch  
 git config --global alias.st status  
 git config --global alias.wipe clean -fdx  
+git config --global push.autoSetupRemote true # first push always work on mr     
 
 ### stash cheatsheet
 
